@@ -14,11 +14,11 @@ This project demonstrates a complete workflow from exploratory data analysis to 
 ---
 
 ## 📁 Repository Structure
-├── app.py
-├── Customer Intelligence & Revenue Optimization System.ipynb
-├── Customer Intelligence & Revenue Optimization System_1.ipynb
-├── modified_image.png
-└── README.md
+      ├── app.py
+      ├── Customer Intelligence & Revenue Optimization System.ipynb
+      ├── Customer Intelligence & Revenue Optimization System_1.ipynb
+      ├── modified_image.png
+      └── README.md
 
 ---
 
